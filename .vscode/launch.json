@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug Accounting Worksheet",
+            "request": "launch",
+            "mainClass": "accountingworksheet.AccountingWorksheet",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
